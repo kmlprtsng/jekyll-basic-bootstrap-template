@@ -1,2 +1,1 @@
-# smart-electrical-gb
-Website for smartelectricalgb.co.uk
+Basic Jekyll bootstrap template
